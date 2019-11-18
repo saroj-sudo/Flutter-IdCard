@@ -18,7 +18,7 @@ class Home extends StatelessWidget {
         padding: EdgeInsets.fromLTRB(20.0, 30.0, 20.0, 0.0),
         child: Column(
           children: <Widget>[
-            Text('')
+            Text('Thats my Name')
           ],
         ),
       ),
